@@ -1,0 +1,13 @@
+#root{
+    margin-top: 60px;
+}
+
+.btn{
+    margin-left: 5px;
+}
+a{
+  text-decoration: none !important;
+}
+input{
+  border-style: dotted;
+}
